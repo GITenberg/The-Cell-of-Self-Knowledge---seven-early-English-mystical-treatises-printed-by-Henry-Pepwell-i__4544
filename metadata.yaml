@@ -1,0 +1,48 @@
+_repo: The-Cell-of-Self-Knowledge---seven-early-English-mystical-treatises-printed-by-Henry-Pepwell-i__4544
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Pepwell, Henry
+    deathdate: 1540
+    gutenberg_agent_id: '1498'
+    url: http://www.gutenberg.org/2009/agents/1498
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Pepwell
+creator:
+  editor:
+    agent_name: Gardner, Edmund G.
+    aliases:
+    - Gardner, John Edmund Garratt
+    - Gardner, Edmund Garratt
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '39067'
+    url: http://www.gutenberg.org/2009/agents/39067
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcsh 'Mysticism -- Great Britain'
+- !lcsh 'Mysticism -- History -- Middle Ages, 600-1500'
+- !lcsh 'Religious thought -- Middle Ages, 600-1500'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: I. A very devout treatise, named Benjamin, of the mights and virtues
+  of a man's soul, and of the way to true contemplation, comp. by ... Richard of Saint
+  Victor -- II. Divers doctrines devout and fruitful, taken out of the life of that
+  glorious virgin and spouse of Our Lord, Saint Katherin of Seenes -- III. A short
+  treatise of contemplation taught by Our Lord Jesus Christ, or taken out of the book
+  of Margery Kempe, ancress of Lynn -- IV. A devout treatise, comp. by Master Walter
+  Hylton, of the song of angels -- V. A devout treatise called the Epistle of prayer
+  -- VI. A very necessary epistle of discretion in stirrings of the soul -- VII. A
+  devout treatise of discerning of spirits, very necessary for ghostly livers.
+title: 'The Cell of Self-Knowledge : seven early English mystical treatises printed
+  by Henry Pepwell in 1521'
+url: http://www.gutenberg.org/ebooks/4544
